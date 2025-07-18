@@ -6,7 +6,6 @@
 **QuickKV** 是一款专为追求极致效率的用户设计的桌面应用程序。它允许您预先定义和管理大量的“键-值”数据对，并通过一个高度智能化的界面，实现闪电般的快速输入、组合和复制。无论您是程序员、文案工作者、客服人员还是数据分析师，QuickKV 都能成为您工作流中不可或缺的效率倍增器。
 
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/msjsc001/key-value-input-tool)](https://github.com/msjsc001/key-value-input-tool/releases/latest) [![GitHub last commit](https://img.shields.io/github/last-commit/msjsc001/key-value-input-tool)](https://github.com/msjsc001/key-value-input-tool/commits/master) [![GitHub All Releases Downloads](https://img.shields.io/github/downloads/msjsc001/key-value-input-tool/total?label=Downloads&color=brightgreen)](https://github.com/msjsc001/key-value-input-tool/releases)
 ---
 
 <img width="1778" height="871" alt="PixPin_2025-07-18_11-42-28" src="https://github.com/user-attachments/assets/b9fc0e1f-02dd-4348-b0aa-0fc2b4046991" />
