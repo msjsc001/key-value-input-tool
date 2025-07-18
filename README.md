@@ -1,3 +1,4 @@
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/msjsc001/key-value-input-tool)](https://github.com/msjsc001/key-value-input-tool/releases/latest) [![GitHub last commit](https://img.shields.io/github/last-commit/msjsc001/key-value-input-tool)](https://github.com/msjsc001/key-value-input-tool/commits/master) [![GitHub All Releases Downloads](https://img.shields.io/github/downloads/msjsc001/key-value-input-tool/total?label=Downloads&color=brightgreen)](https://github.com/msjsc001/key-value-input-tool/releases)
 # QuickKV - 你的智能键值对快速输入与管理大师
 
 ![QuickKV Logo](https://img.icons8.com/fluency/96/keyboard.png)
